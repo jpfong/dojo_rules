@@ -1,4 +1,4 @@
-
+Killing history using git rebase
 
 hello
 I'm jpfong, favorite path: JavaScript
